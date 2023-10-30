@@ -13,6 +13,7 @@ The code is a modified version of the starter kit, which can be found at this UR
 
 - **Keystroke Verification Challenge URL**: [https://sites.google.com/view/bida-kvc/](https://sites.google.com/view/bida-kvc/)
 - **Starter Kit URL**: [https://sites.google.com/view/bida-kvc/kick-start-scripts?authuser=0](https://sites.google.com/view/bida-kvc/kick-start-scripts?authuser=0)
+- **CodaLab Competition Page**: [https://codalab.lisn.upsaclay.fr/competitions/14063](https://codalab.lisn.upsaclay.fr/competitions/14063)
 
 ## Citation
 coming soon.
