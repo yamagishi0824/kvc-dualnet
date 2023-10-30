@@ -9,3 +9,10 @@ This repository houses the training code for the Dual-Network approach that was 
 
 The code is a modified version of the starter kit, which can be found at this URL: [Kick Start Scripts for the Keystroke Verification Challenge](https://sites.google.com/view/bida-kvc/kick-start-scripts?authuser=0).
 
+## Resources
+
+- **Keystroke Verification Challenge URL**: [https://sites.google.com/view/bida-kvc/](https://sites.google.com/view/bida-kvc/)
+- **Starter Kit URL**: [https://sites.google.com/view/bida-kvc/kick-start-scripts?authuser=0](https://sites.google.com/view/bida-kvc/kick-start-scripts?authuser=0)
+
+## Citation
+coming soon.
