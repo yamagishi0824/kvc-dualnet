@@ -1,5 +1,5 @@
 # KVC DualNet Approach
-This repository publishes the demo code for [IEEE BigData2023 Keystroke Verification Challenge](https://sites.google.com/view/bida-kvc/).
+This repository publishes the demo code for the 5th (desktop task) and the 3rd (mobile task) solutions at [IEEE BigData2023 Keystroke Verification Challenge](https://sites.google.com/view/bida-kvc/).
 
 ## Repository Description
 
