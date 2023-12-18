@@ -1,5 +1,5 @@
 # KVC DualNet Approach
-This repository publishes the demo code for KVC.
+This repository publishes the demo code for Keystroke Verification Challenge 2023 URL**: [https://sites.google.com/view/bida-kvc/](https://sites.google.com/view/bida-kvc/).
 
 ## Repository Description
 
