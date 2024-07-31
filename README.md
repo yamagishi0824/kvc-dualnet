@@ -13,4 +13,13 @@ The code is a modified version of the starter kit, which can be found at this UR
 - **CodaLab Competition Page**: [https://codalab.lisn.upsaclay.fr/competitions/14063](https://codalab.lisn.upsaclay.fr/competitions/14063)
 
 ## Citation
-coming soon.
+```
+@inproceedings{stragapede2023ieee,
+  title={IEEE BigData 2023 Keystroke Verification Challenge (KVC)},
+  author={Stragapede, Giuseppe and Vera-Rodriguez, Ruben and Tolosana, Ruben and Morales, Aythami and DeAndres-Tame, Ivan and Damer, Naser and Fierrez, Julian and Garcia, Javier-Ortega and Gonzalez, Nahuel and Shadrikov, Andrei and others},
+  booktitle={2023 IEEE International Conference on Big Data (BigData)},
+  pages={6092--6100},
+  year={2023},
+  organization={IEEE}
+}
+```
