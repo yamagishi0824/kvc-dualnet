@@ -23,3 +23,17 @@ The code is a modified version of the starter kit, which can be found at this UR
   organization={IEEE}
 }
 ```
+
+```
+@article{STRAGAPEDE2025111287,
+title = {KVC-onGoing: Keystroke Verification Challenge},
+journal = {Pattern Recognition},
+volume = {161},
+pages = {111287},
+year = {2025},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2024.111287},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320324010380},
+author = {Giuseppe Stragapede and Ruben Vera-Rodriguez and Ruben Tolosana and Aythami Morales and Ivan DeAndres-Tame and Naser Damer and Julian Fierrez and Javier Ortega-Garcia and Alejandro Acien and Nahuel Gonzalez and Andrei Shadrikov and Dmitrii Gordin and Leon Schmitt and Daniel Wimmer and Christoph Großmann and Joerdis Krieger and Florian Heinz and Ron Krestel and Christoffer Mayer and Simon Haberl and Helena Gschrey and Yosuke Yamagishi and Sanjay Saha and Sanka Rasnayaka and Sandareka Wickramanayake and Terence Sim and Weronika Gutfeter and Adam Baran and Mateusz Krzysztoń and Przemysław Jaskóła}
+}
+```
